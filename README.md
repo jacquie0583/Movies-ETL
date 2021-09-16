@@ -5,8 +5,11 @@ The delivery of the dataset has been greatly appreciated by Amazing Prime as a r
 Wikipedia holds up its’ reputation on maintaining an enormous amount of information, including budgets and box office returns, cast and crew, production, and distribution, and so much more. Previously, Britta's coworkers created a script to go through a list of movies on Wikipedia from 1990 to 2018 and extract the data from the sidebar into a JSON. Unfortunately, her coworker can't find the script anymore and just has the JSON file. We'll need to load in the JSON file into a Pandas DataFrame.
 ## Resources:
 •	Products developed: ETL Deliverable 1, ETL Deliverable 2 and ETL Deliverable 3
+
 •	Data Tools: Jupyter Notebook, PostgreSQL, pgAdmin
-•	Software: pgAdmin 4.26, Python 3.8.3, Visual Studio Code 1.50.0
+
+•	Software: pgAdmin 4.26, Python 3.8.3, Visual Studio Code 1.50.0, Flask Version 1.0.2
+
 ## Procedures  
 ###  Outline of Results
 ####  Deliverable 1
